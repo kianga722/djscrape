@@ -1,2 +1,2 @@
 # djscrape
-Testing out scraper utilities, inspired by Wesbos tutorial
+Testing out scraper utilities on Twitter, inspired by Wesbos tutorial
